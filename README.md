@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am an undergrad in Lehigh University's Computer Science and Business double major program<br>I'm currently working on creating the JARVIS AI from the Iron Man movies using Python and working on getting my Responsive Web Design certification from freeCodeCamp<br>I'm learning everything I can now to see where my interests take me, but i'm focusing on front-end development, Python, Java and some Deep Learning for AI at the moment<br>Ask me about my website! It's not very good yet, but it's getting there.<br>Fun fact, outside of developing, I am a competitive figure skater :)
+- I am an undergrad in Lehigh University's Computer Science and Business double major program<br>- I'm currently working on creating the JARVIS AI from the Iron Man movies using Python and working on getting my Responsive Web Design certification from freeCodeCamp<br>- I'm learning everything I can now to see where my interests take me, but i'm focusing on front-end development, Python, Java and some Deep Learning for AI at the moment<br>- Ask me about my website! It's not very good yet, but it's getting there.<br- >Fun fact, outside of developing, I am a competitive figure skater :)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vvickyzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vickyvilleta) 
