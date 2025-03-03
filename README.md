@@ -1,7 +1,15 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am an undergrad in Lehigh University's Computer Science and Business double major program<br>I'm currently working on creating the JARVIS AI from the Iron Man movies using Python and working on getting my Data Visualization certification from freeCodeCamp<br>I'm learning everything I can now to see where my interests take me, but i'm focusing on front-end development, Python, Java and some Deep Learning for AI at the moment<br>Ask me about my website! It's not very good yet, but it's getting there.<br>Fun fact, outside of developing, I am a competitive figure skater :)
+I'm a Computer Science and Business undergrad at Lehigh University, passionate about full-stack development and constantly exploring new technologies. Right now, I’m diving deep into front-end development, back-end technologies like Node.js and PostgreSQL, and experimenting with AI through Python. <br>
+
+Recently, I have built the JARVIS AI from Iron Man (yes, really!) and I have earned certifications in Data Visualization and JavaScript Algorithms. I’ve worked on full-stack projects like WanderWise, a travel app with Angular and Node.js, and a social media application with TypeScript, Angular, and Flutter. <br>
+
+On top of that, I’ve gained real-world experience, including a Capstone Project at Nutradata and an internship at Waital, where I helped design and develop web applications using modern technologies and frameworks. <br>
+
+Currently looking for opportunities! I’m actively seeking a full-time job or internship in full-stack or front-end development. I’m excited to bring my skills to a team and contribute to impactful projects. <br>
+
+Fun fact: when I’m not coding, I’m a figure skating coach! Proof that balance, precision, and creativity are key both on the ice and in development!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vickyvilleta) 
